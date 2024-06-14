@@ -1,4 +1,4 @@
-# Eksplorasi Mandiri (Semanctic HTML)
+# Eksplorasi Mandiri (Semantic HTML)
 ## Nama : Daffa Erinda Ziddana
 ## NPM : 2210631170115
 ## Mata Kuliah : Pemrograman Berbasis Web
